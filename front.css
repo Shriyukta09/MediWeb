@@ -1,0 +1,37 @@
+body{
+background-image:url("https://www.shutterstock.com/image-vector/medical-health-care-innovative-element-260nw-540789148.jpg");
+background-repeat:no-repeat;
+background-color:rgb(0,153,51);
+background-size:cover;
+}
+#heading{
+color:rgb(255,255,255);
+font-size:70px;
+font-style:Verdana;
+font-weight:30px;
+}
+img{
+height:80px;
+width:80px;
+margin:20px;
+}
+
+#next{
+color:white;
+}
+#next:hover{
+color:yellow;
+}
+.column{
+float: left;
+width: 30%;
+padding: 5px;
+margin-top:10px;
+}
+#caption{
+color:white;
+font-size:30px;
+padding-right:5px;
+}
+
+

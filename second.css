@@ -1,0 +1,41 @@
+body{
+background-image:url("secondbg.png");
+background-repeat:no-repeat;
+background-size:cover;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container img {
+  width:350px;
+  height: 350px;
+  padding:150px 10px 75px 10px;
+  border-radius:200%;
+
+}
+.text1,.text2,.text3{
+display:fixed;
+padding-left:110px;
+justify-content: space-between;
+font-size:30px;
+font-color:dark-purple;
+
+}
+#phone{
+color:rgb(0,153,43);
+}
+
+.previous{
+background-color:red;
+color:white;
+font-size:40px;
+text-align:center;
+margin-left:50px;
+}
+.previous:hover{
+color:sky-blue;
+}
+
+
